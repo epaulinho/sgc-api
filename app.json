@@ -1,0 +1,12 @@
+{
+  "name": "Asp.Net Core Buildpack",
+  "description": "Asp.Net Core",
+  "website": "http://zhongzf.cnblogs.com/",
+  "repository": "https://github.com/zhongzf/aspnetcore-buildpack",
+  "keywords": [ "aspnet core", "asp.net core", "dotnet", "dotnet core" ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/zhongzf/aspnetcore-buildpack.git"
+    }
+  ]
+}
