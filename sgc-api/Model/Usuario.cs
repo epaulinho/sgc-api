@@ -2,6 +2,7 @@
 {
     public class Usuario
     {
+        //Propriedades do Objeto Usuario
         public string UID { get; set; }
         public long CPF { get; set; }
         public string Nome { get; set; }

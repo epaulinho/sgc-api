@@ -14,6 +14,7 @@ namespace sgc_api
     {
         public static void Main(string[] args)
         {
+            //Inicia portal
             CreateWebHostBuilder(args).Build().Run();
         }
 
